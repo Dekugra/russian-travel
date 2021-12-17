@@ -10,3 +10,6 @@
 * Grid
 * Transition
 * медиазапросы
+
+**Проект можно посмотреть по ссылке:**
+[ссылка] (https://dekugra.github.io/russian-travel)
