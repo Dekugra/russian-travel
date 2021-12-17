@@ -25,9 +25,13 @@
 
 **Проект можно посмотреть по ссылке:**
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 (https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 =======
 (https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
 >>>>>>> f9daac059beb1b50e93a581cde5a8c843b1a844d
+=======
+[ссылка] (https://dekugra.github.io/russian-travel)
+>>>>>>> 46c8ff5fe6bcf5bc5218ccf2136441e5c76cff82
