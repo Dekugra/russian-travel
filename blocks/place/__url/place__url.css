@@ -1,0 +1,15 @@
+.place__url {
+  margin: 0;
+  font-size: 16px;
+  line-height: 20.4px;
+  height: 30px;
+}
+
+@media screen and (max-width: 768px) {
+  .place__url {
+    width: 90%;
+    font-size: 32px;
+    line-height: 36px;
+    margin-bottom: 12px;
+  }
+}
