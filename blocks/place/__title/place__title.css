@@ -2,13 +2,21 @@
   font-size: 72px;
   line-height: 1.05;
   font-weight: 900;
-  width: 47%;
-  margin: 0 4% 48px 0;
-  align-self: flex-end;
+  width: 46%;
+  max-height: 152px;
+  margin: 0 40px 48px 0;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 1280px) {
+  .place__title {
+    margin-right: 32px;
+  }
 }
 
 @media screen and (max-width: 1024px) {
   .place__title {
+    margin-right: 28px;
     font-size: 42px;
     line-height: 1.09;
   }
@@ -16,9 +24,10 @@
 
 @media screen and (max-width: 768px) {
   .place__title {
-    width: 90%;
     font-size: 32px;
     line-height: 1.09;
-    margin: 0 auto 32px;
+    margin: 0 0 32px;
+    padding: 0 16px;
+    width: 100%;
   }
 }
