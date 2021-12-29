@@ -1,5 +1,5 @@
 .header__link:first-child {
-  margin-right: 18px;
+  margin-right: 10px;
 }
 
 .header__link {
@@ -13,16 +13,20 @@
 
 .header__link:hover {
   opacity: 0.2;
+  transition: opacity 0.4s linear;
 }
 
 .header__link:focus {
   text-decoration: underline;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 720px) {
   .header__link {
     font-size: 18px;
     line-height: 1.11;
     font-weight: 400;
   }
+  .header__link:first-child {
+  margin-right: 16px;
+}
 }

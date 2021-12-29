@@ -5,19 +5,19 @@
   box-sizing: border-box;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1184px) {
   .places {
     padding: 0 48px 92px;
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 928px) {
   .places {
     padding: 0 24px 90px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 720px) {
   .places {
     padding: 0 0 66px;
   }

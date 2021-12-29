@@ -1,11 +1,12 @@
 .place__content {
   display: flex;
   flex-direction: column;
-  width: 49%;
+  width: 48%;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 720px) {
   .place__content {
+    padding: 0 19px;
     width: 100%;
   }
 }

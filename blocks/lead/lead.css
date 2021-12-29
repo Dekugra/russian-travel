@@ -13,16 +13,16 @@
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 928px) {
   .lead {
     padding: 0;
     margin-bottom: 88px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 720px) {
   .lead {
-    margin-bottom: 64px;
+    margin-bottom: 66px;
     padding: 0 2px;
   }
 }

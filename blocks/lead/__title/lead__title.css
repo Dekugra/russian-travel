@@ -7,13 +7,13 @@
   text-align: center;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 720px) {
   .lead__title {
     font-size: 40px;
     line-height: 1.1;
     width: 100%;
     padding: 0 16px;
-    margin-bottom: 16px;
+    margin-bottom: 14px;
     box-sizing: border-box;
   }
 }
