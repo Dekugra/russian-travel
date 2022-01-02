@@ -1,14 +1,14 @@
-.header__link:last-child {
-  margin-left: 18px;
-}
-
 .header__link {
   color: white;
   text-decoration: none;
   font-size: 24px;
-  font-weight: normal;
+  font-weight: 400;
   line-height: 1.17;
   opacity: 1;
+}
+
+.header__link:last-child {
+  margin-left: 18px;
 }
 
 .header__link:hover {
@@ -21,8 +21,5 @@
     font-size: 18px;
     line-height: 1.11;
     font-weight: 400;
-  }
-  .header__link:first-child {
-    margin-right: 16px;
   }
 }
