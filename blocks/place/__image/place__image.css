@@ -1,6 +1,6 @@
 .place__image {
-  width: 46.9%;
-  height: 46%;
+  width: 46.8%;
+  height: 46.8%;
   margin-right: 40px;
   box-sizing: border-box;
 }
@@ -9,15 +9,12 @@
   .place__image {
     margin-right: 32px;
     width: 47.5%;
-    height: 47.5%;
   }
 }
 
 @media screen and (max-width: 928px) {
   .place__image {
     margin-right: 28px;
-    width: 47%;
-    height: 47%;
   }
 }
 

@@ -3,8 +3,9 @@
   line-height: 1.04;
   font-weight: 900;
   margin: 0 auto 32px;
-  width: 720px;
+  max-width: 720px;
   text-align: center;
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 720px) {
@@ -14,6 +15,5 @@
     width: 100%;
     padding: 0 16px;
     margin-bottom: 14px;
-    box-sizing: border-box;
   }
 }

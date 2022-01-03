@@ -2,7 +2,7 @@
   font-size: 72px;
   line-height: 1.06;
   font-weight: 900;
-  width: 47.5%;
+  width: 46.8%;
   max-height: 152px;
   margin: 0 40px 48px 0;
   box-sizing: border-box;
@@ -11,6 +11,7 @@
 @media screen and (max-width: 1184px) {
   .place__title {
     margin-right: 32px;
+    width: 47.5%;
   }
 }
 

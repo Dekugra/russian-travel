@@ -2,14 +2,15 @@
   display: grid;
   grid: repeat(3, 1fr) / repeat(4, 1fr);
   gap: 16px;
-  margin: 0 auto 92px;
-  width: 92.5%;
+  padding: 0 48px;
+  margin-bottom: 92px;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 1184px) {
   .photo-grid {
     grid: repeat(4, 1fr) / repeat(3, 1fr);
-    width: 90.6%;
     gap: 14px;
   }
 }
@@ -17,16 +18,17 @@
 @media screen and (max-width: 928px) {
   .photo-grid {
     grid: repeat(6, 1fr) / repeat(2, 1fr);
-    width: 93.7%;
-    margin: 0 auto 88px;
+    padding: 0 24px;
+    margin-bottom: 88px;
+    gap: 16px;
   }
 }
 
 @media screen and (max-width: 720px) {
   .photo-grid {
     grid: repeat(12, 1fr) / repeat(1, 1fr);
-    width: 90%;
     gap: 12px;
-    margin: 0 auto 64px;
+    padding: 0 16px;
+    margin-bottom: 64px;
   }
 }

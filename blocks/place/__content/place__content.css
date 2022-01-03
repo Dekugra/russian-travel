@@ -4,6 +4,12 @@
   width: 48%;
 }
 
+@media screen and (max-width: 928px) {
+  .place__content {
+    width: 47%;
+  }
+}
+
 @media screen and (max-width: 720px) {
   .place__content {
     padding: 0 19px;
